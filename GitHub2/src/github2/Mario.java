@@ -10,6 +10,6 @@ package github2;
  */
 public class Mario {
     
-    
+    private String mario;
     
 }
